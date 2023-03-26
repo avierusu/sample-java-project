@@ -8,5 +8,6 @@ public class Welcome1{
         for (int index = 0; index <= text.length(); index++){
             System.out.println(text.charAt(index));
         }
+        System.out.println("\n cool\n -Added by user gopale");
     }
 }
